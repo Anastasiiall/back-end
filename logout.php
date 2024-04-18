@@ -5,7 +5,7 @@ session_start();
 // TODO 2: ROUTING
 // $_SESSION['auth'] = false;
 session_destroy();
-header('Location: /');
+header('Location: /guestbook.php');
 die;
 
 // TODO 3: CODE by REQUEST METHODS (ACTIONS) GET, POST, etc. (handle data from request): 1) validate 2) working with data source 3) transforming data
