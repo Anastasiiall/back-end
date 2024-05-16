@@ -1,0 +1,7 @@
+{
+    "name": "nout/guestbook",
+    "type": "composer-plugin",
+    "require": {
+        "symfony/var-dumper": "^7.0"
+    }
+}
